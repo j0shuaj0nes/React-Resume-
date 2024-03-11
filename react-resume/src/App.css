@@ -118,6 +118,7 @@ footer{
   margin: 5px;
   padding: 5px;
   font-size: 15px;
+  color: black;
 
 }
 
@@ -127,15 +128,15 @@ footer{
 }
 
 #box2 {
-  background-image: url(./assets/images/boat.jpg);
+  background-image: url(./assets/images/beachBabes.jpg);
 }
 
 #box3 {
-  background-image: url(./assets/images/boat.jpg);
+  background-image: url(./assets/images/dreamySunset.jpg);
 }
 
 #box4 {
-  background-image: url(./assets/images/boat.jpg);
+  background-image: url(./assets/images/glisteningWater.jpg);
 }
 
 .main-box{
@@ -145,5 +146,6 @@ footer{
   padding: 5px;
   background-image: url(./assets/images/computorGeeks.png);
   background-size: cover;
+  color: black;
 
 }

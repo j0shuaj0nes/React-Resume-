@@ -68,25 +68,25 @@ function App() {
 
                     </div>
                 </a>
-                <a class="small-box" id='box1' href="https://github.com/j0shuaj0nes/Horizon-marketing">
+                <a class="small-box" id='box1' href="https://tech-blogau-7fbfbd85ee67.herokuapp.com/">
                     <div>
                         <h4>Tech Blog</h4>
                         <h6>Node/IoT</h6>
                     </div>
                 </a>
-                <a class="small-box" id='box2' href="https://github.com/j0shuaj0nes/Horizon-marketing">
+                <a class="small-box" id='box2' href="https://gallivant-17c406878ae5.herokuapp.com/">
                     <div>
                         <h4>Gallivant</h4>
                         <h6>React/JavaScript/CSS</h6>
                     </div>
                 </a>
-                <a class="small-box" id='box3' href="https://github.com/j0shuaj0nes/Horizon-marketing">
+                <a class="small-box" id='box3' href="https://desolate-escarpment-64746-ab097503a655.herokuapp.com/">
                     <div>
-                        <h4>Weather Dashboard</h4>
+                        <h4>Note Taker</h4>
                         <h6>MERN Stack</h6>
                     </div>
                 </a>
-                <a class="small-box" id='box4' href="https://github.com/j0shuaj0nes/Horizon-marketing">
+                <a class="small-box" id='box4' href="https://j0shuaj0nes.github.io/Calendar-Application-/">
                     <div>
                         <h4>Calendar App</h4>
                         <h6>Node/IoT</h6>
