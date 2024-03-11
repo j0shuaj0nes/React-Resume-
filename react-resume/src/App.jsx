@@ -41,12 +41,9 @@ function App() {
             <div id="about-me">
                 <h2>About Me</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus dolor a urna mattis,
-                    finibus malesuada neque egestas. In egestas mattis ipsum, eu pharetra lorem rhoncus aliquam.
-                    Maecenas nibh arcu, consequat ac nisi et, auctor consequat ante. In vel elit dui. Orci varius
-                    natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti
-                    sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque sed quam vitae eros
-                    pellentesque ultricies sed ac orci.
+                    Joshua works in wine business & export in Margaret River, Western Australia.
+                    He is an aspiring web developer with a keen interest in design and front end development. 
+                    He is currently completing a 6 month course in coding and programming.
                 </p>
                 <p>
                     Integer placerat, lacus eget aliquam faucibus, arcu lorem porttitor sapien, a mollis ante mi ut
@@ -102,7 +99,7 @@ function App() {
                 </a>
             </div>
             <div>
-                <a>
+                <a href='https://www.instagram.com/quite.sexy/'>
                     Instagram
                 </a>
             </div>
