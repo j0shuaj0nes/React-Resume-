@@ -94,27 +94,27 @@ function App() {
         <footer id="contact-me">
             <h2>Contact Me</h2>
             <div>
-                <a href='https://github.com/j0shuaj0nes'>
+                <a href='https://github.com/j0shuaj0nes' id='ghub'>
                     GitHub 
                 </a>
             </div>
             <div>
-                <a href='https://www.instagram.com/quite.sexy/'>
+                <a id='insta'>
                     Instagram
                 </a>
             </div>
             <div>
-                <a>
+                <a id='fb'>
                     FaceBook 
                 </a>
             </div>
             <div>
-                <a href='mailto:9joshuajones5@gmail.com'>
+                <a href='mailto:9joshuajones5@gmail.com' id='email'>
                     Email 
                 </a>
             </div>
             <div>
-                <a>
+                <a id='linkin'>
                     LinkedIn
                 </a>
             </div>
